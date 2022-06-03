@@ -186,6 +186,8 @@ main {
   }
   html {
     font-size: 52.5%;
-    box-sizing: border-box;
+  }
+  .btn--new {
+    top: -0.1rem;
   }
 }
