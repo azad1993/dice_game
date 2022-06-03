@@ -77,4 +77,5 @@ hold.addEventListener('click', function () {
     }
   }
 });
+
 newGame.addEventListener('click', init)
