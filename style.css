@@ -184,4 +184,8 @@ main {
   .btn--hold {
     top: 50rem;
   }
+  html {
+    font-size: 52.5%;
+    box-sizing: border-box;
+  }
 }
